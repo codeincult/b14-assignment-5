@@ -1,6 +1,6 @@
 function NavList() {
   return (
-    <ul className="font-semibold *:cursor-pointer flex gap-7">
+    <ul className="font-semibold *:cursor-pointer *:hover:text-pink flex gap-7">
       <li className="text-pink">Home</li>
       <li>Technologies</li>
       <li>Projects</li>

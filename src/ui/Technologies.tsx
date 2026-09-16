@@ -1,5 +1,5 @@
 function Technologies() {
-  return <div></div>;
+  return <div>Technologies</div>;
 }
 
 export default Technologies;
